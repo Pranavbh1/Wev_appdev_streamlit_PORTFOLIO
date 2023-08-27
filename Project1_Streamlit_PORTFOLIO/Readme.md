@@ -47,11 +47,17 @@
 
 # Error( With solution) :
    Error :- 'Python' is not recognised as internal................
+   
    Reason :- Python is not set as the environment variable
+   
    Soluton :- Go to loacation of folder of python installed in your system :
+   
               Copy : absolute path of 'python' and 'Scripts' folder
+   
               Open : Control Panel --> Edit the system environment Variables
+              
               Open : Environment Variables ( in Edit the system environment Variables)
+              
               Select : PATH (variable in both boxes --> GO TO Edit --> Go TO New --> Paste the copied both Absolute path.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
