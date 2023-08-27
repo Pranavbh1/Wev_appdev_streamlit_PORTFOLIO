@@ -1,4 +1,4 @@
-# Web Application Decelopment using Python Programming Language
+# Web Application Development using Python Programming Language
 # By using STREAMLIT
 * Basic setup :
    1. Creation of Virtual Environment :
